@@ -1,4 +1,6 @@
-# Ensembles for Uncertain Categorical Data
+# Data Mining Final Project - Group 14
+
+This is a modified version of existing research.
 
 This repository contains the datasets and code related to the work reported in the paper referenced below.
 
